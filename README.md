@@ -2,6 +2,8 @@
 
 ![Screenshot 2024-06-28 212137](https://github.com/Abhirajsinghchandrawat/LIVE-HR-Dashboard--TABLEAU-DATA-VISUALIZATION-/assets/120115877/8afb5922-dcaa-4964-aebb-c1b9d39b5c3c)
 
+ACCESS IT LIVE FROM HERE : https://public.tableau.com/app/profile/a.c8613/viz/LIVEHRDashboardProject/MAINDASHBOARD
+
 User Story - HR Dashboard
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
